@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Switcher",
+  "description": "Automatically switches between dark mode and light mode based on ambient light sensor readings with setup and background service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
